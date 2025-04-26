@@ -23,7 +23,7 @@ A modern, responsive portfolio website built with HTML5, SCSS, and TypeScript.
 
 ```bash
 git clone <your-repo-url>
-cd scss-resume
+cd scss_resume
 ```
 
 2. Install dependencies:
