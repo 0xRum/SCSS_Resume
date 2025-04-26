@@ -1,0 +1,75 @@
+@use "variables" as *;
+@use "mixins" as *;
+
+// Hero Section
+.hero {
+  padding: $spacing-unit * 4 $spacing-unit * 2;
+  max-width: $container-max-width;
+  margin: 0 auto;
+
+  .hero-content {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: $spacing-unit * 4;
+    align-items: center;
+
+    @include responsive-min($breakpoint-md) {
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+
+  .hero-text {
+    h1 {
+      font-size: $font-size-h1;
+      line-height: 1.2;
+      margin-bottom: $spacing-unit * 2;
+    }
+
+    p {
+      margin-bottom: $spacing-unit * 2;
+      color: var(--text-secondary);
+    }
+
+    .cta-buttons {
+      display: flex;
+      gap: $spacing-unit;
+    }
+  }
+
+  .hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    img {
+      width: 100%;
+      max-width: 500px;
+      height: auto;
+      object-fit: contain;
+      border-radius: 100px;
+    }
+
+    @include responsive-min($breakpoint-md) {
+      justify-content: flex-end;
+    }
+  }
+}
+
+// Latest Codes Section
+.latest-codes {
+  padding: $spacing-unit * 4 $spacing-unit * 2;
+  max-width: $container-max-width;
+  margin: 0 auto;
+
+  h2 {
+    font-size: $font-size-h2;
+    margin-bottom: $spacing-unit * 2;
+  }
+
+  .projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: $spacing-unit * 2;
+    margin-top: $spacing-unit * 3;
+  }
+}

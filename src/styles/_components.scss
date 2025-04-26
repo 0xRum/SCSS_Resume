@@ -1,0 +1,42 @@
+@use "variables" as *;
+@use "mixins" as *;
+
+// Button styles
+.btn-primary {
+  @include button("primary");
+}
+
+.btn-secondary {
+  @include button("secondary");
+}
+
+// Card styles
+.card {
+  background-color: var(--card-background);
+  border-radius: 12px;
+  padding: $spacing-unit * 2;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.15);
+  }
+}
+
+// Social links
+.social-links {
+  display: flex;
+  align-items: center;
+  gap: $spacing-unit;
+
+  a {
+    color: var(--text-color);
+    text-decoration: none;
+    transition: color 0.3s ease;
+
+    &:hover {
+      color: var(--primary-color);
+    }
+  }
+}

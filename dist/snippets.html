@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Code Snippets - Garrett Rumery</title>
+    <script>document.documentElement.setAttribute('data-theme', localStorage.getItem('theme') || (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light'));
+
+</script>
+    <link rel="stylesheet" href="/SCSS_Resume.971c2ea4.css">
+    <script type="module" src="/SCSS_Resume.9cf9c461.js"></script>
+  </head>
+  <body>
+    <header>
+      <button class="menu-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="desktop-nav">
+        <ul>
+          <li><a href="/index.html">HOME</a></li>
+          <li><a href="/about.html">ABOUT</a></li>
+          <li><a href="/projects.html">PROJECTS</a></li>
+          <li><a href="/snippets.html">SNIPPETS</a></li>
+        </ul>
+      </nav>
+      <a href="/index.html" class="logo">G</a>
+      <div class="social-links">
+        <a href="https://github.com/yourusername" aria-label="GitHub Profile">
+          <img src="/github.670dd962.png" alt="GitHub" class="social-icon">
+        </a>
+        <a href="https://linkedin.com/in/yourusername" aria-label="LinkedIn Profile">
+          <img src="/linkedin.31919034.png" alt="LinkedIn" class="social-icon">
+        </a>
+        <button class="theme-toggle" aria-label="Toggle dark mode">
+          <img src="/dark-mode.7ce24008.png" alt="Dark Mode" class="social-icon">
+        </button>
+      </div>
+
+      <!-- Mobile Menu -->
+      <div class="mobile-menu">
+        <div class="mobile-menu-header">
+          <div class="logo">G</div>
+          <button class="close-menu" aria-label="Close menu">
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+        <nav class="mobile-nav">
+          <ul>
+            <li><a href="/index.html">HOME</a></li>
+            <li><a href="/about.html">ABOUT</a></li>
+            <li><a href="/projects.html">PROJECTS</a></li>
+            <li><a href="/snippets.html">SNIPPETS</a></li>
+          </ul>
+        </nav>
+        <div class="mobile-social-links">
+          <a href="https://github.com/yourusername">
+            <img src="/github.670dd962.png" alt="GitHub" class="social-icon">
+          </a>
+          <a href="https://linkedin.com/in/yourusername">
+            <img src="/linkedin.31919034.png" alt="LinkedIn" class="social-icon">
+          </a>
+          <button class="theme-toggle-mobile">
+            <img src="/dark-mode.7ce24008.png" alt="Dark Mode" class="social-icon">
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="snippets-section">
+        <div class="snippets-header">
+          <h1>Code Snippets</h1>
+          <p class="lead">A collection of useful code snippets, utilities, and solutions to common programming challenges.</p>
+        </div>
+        
+        <div class="snippets-grid">
+          <article class="snippet-card">
+            <div class="snippet-header">
+              <h3>Utility Functions</h3>
+              <span class="language-tag">JavaScript</span>
+            </div>
+            <pre class="snippet-code"><code>// Deep clone an object
+const deepClone = (obj) => {
+  return JSON.parse(
+    JSON.stringify(obj)
+  );
+};
+
+// Format currency
+const formatCurrency = (
+  amount,
+  currency = 'USD'
+) => {
+  return new Intl.NumberFormat(
+    'en-US',
+    {
+      style: 'currency',
+      currency
+    }
+  ).format(amount);
+};</code></pre>
+            <div class="snippet-footer">
+              <button class="copy-btn">Copy Code</button>
+              <a href="#" class="view-gist">View Gist</a>
+            </div>
+          </article>
+
+          <article class="snippet-card">
+            <div class="snippet-header">
+              <h3>React Custom Hook</h3>
+              <span class="language-tag">TypeScript</span>
+            </div>
+            <pre class="snippet-code"><code>import { useState, useEffect } from 'react';
+
+const useLocalStorage = <t>(
+  key: string,
+  initialValue: T
+): [T, (value: T) => void] => {
+  const [storedValue, setStoredValue] = 
+    useState<t>(() => {
+    try {
+      const item = window.localStorage
+        .getItem(key);
+      return item ? JSON.parse(item) 
+        : initialValue;
+    } catch (error) {
+      return initialValue;
+    }
+  });
+
+  useEffect(() => {
+    window.localStorage.setItem(
+      key,
+      JSON.stringify(storedValue)
+    );
+  }, [key, storedValue]);
+
+  return [storedValue, setStoredValue];
+};</t></t></code></pre>
+            <div class="snippet-footer">
+              <button class="copy-btn">Copy Code</button>
+              <a href="#" class="view-gist">View Gist</a>
+            </div>
+          </article>
+
+          <article class="snippet-card">
+            <div class="snippet-header">
+              <h3>API Error Handler</h3>
+              <span class="language-tag">Python</span>
+            </div>
+            <pre class="snippet-code"><code>from functools import wraps
+from typing import Callable, Any
+
+def handle_api_errors(
+    func: Callable[..., Any]
+) -> Callable[..., Any]:
+    @wraps(func)
+    async def wrapper(*args, **kwargs):
+        try:
+            return await func(*args, **kwargs)
+        except Exception as e:
+            return {
+                'error': str(e),
+                'status': 500
+            }
+    return wrapper
+
+@handle_api_errors
+async def fetch_data():
+    # Your API logic here
+    pass</code></pre>
+            <div class="snippet-footer">
+              <button class="copy-btn">Copy Code</button>
+              <a href="#" class="view-gist">View Gist</a>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Garrett Rumery. All rights reserved.</p>
+    </footer>
+  </body>
+</html> 

@@ -1,0 +1,22 @@
+{
+  "name": "portfolio-website",
+  "version": "1.0.0",
+  "description": "Professional portfolio website using TypeScript and SCSS",
+  "scripts": {
+    "start": "parcel src/index.html",
+    "build": "parcel build src/index.html",
+    "watch:sass": "sass --watch src/styles/main.scss:dist/css/style.css",
+    "compile:sass": "sass src/styles/main.scss:dist/css/style.css"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.5.1"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.14.4",
+    "@types/node": "^20.11.5",
+    "parcel": "^2.11.0",
+    "sass": "^1.70.0",
+    "svgo": "^3.3.2",
+    "typescript": "^5.3.3"
+  }
+}

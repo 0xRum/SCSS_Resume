@@ -1,0 +1,123 @@
+.carousel {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  height: 400px;
+}
+.carousel-item {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  -webkit-transition: -webkit-transform 0.5s ease-in-out;
+  transition: -webkit-transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out;
+  transition: transform 0.5s ease-in-out, -webkit-transform 0.5s ease-in-out;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+.carousel-btn {
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+          transform: translateY(-50%);
+  background: rgba(0, 0, 0, 0.5);
+  color: white;
+  border: none;
+  padding: 1rem;
+  cursor: pointer;
+  z-index: 10;
+  -webkit-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+.carousel-btn:hover {
+  background: rgba(0, 0, 0, 0.8);
+}
+.carousel-btn.prev {
+  left: 1rem;
+}
+.carousel-btn.next {
+  right: 1rem;
+}
+
+.expandable-section {
+  margin: 1rem 0;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  overflow: hidden;
+}
+.expandable-toggle {
+  width: 100%;
+  padding: 1rem;
+  background: #f5f5f5;
+  border: none;
+  text-align: left;
+  cursor: pointer;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-transition: background-color 0.3s;
+  transition: background-color 0.3s;
+}
+.expandable-toggle:hover {
+  background: #e5e5e5;
+}
+.expandable-content {
+  padding: 1rem;
+  background: white;
+}
+
+.skills-visualization .skill-bar {
+  margin: 1rem 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.skills-visualization .skill-label {
+  width: 150px;
+  font-weight: bold;
+}
+.skills-visualization .skill-progress {
+  height: 20px;
+  background: -webkit-gradient(linear, left top, right top, from(#4caf50), to(#8bc34a));
+  background: linear-gradient(90deg, #4caf50, #8bc34a);
+  border-radius: 4px;
+  -webkit-transition: width 1s ease-in-out;
+  transition: width 1s ease-in-out;
+}
+
+[data-theme=dark] .expandable-section {
+  border-color: #444;
+}
+[data-theme=dark] .expandable-toggle {
+  background: #333;
+  color: white;
+}
+[data-theme=dark] .expandable-toggle:hover {
+  background: #444;
+}
+[data-theme=dark] .expandable-content {
+  background: #222;
+  color: white;
+}
+[data-theme=dark] .carousel-btn {
+  background: rgba(255, 255, 255, 0.2);
+}
+[data-theme=dark] .carousel-btn:hover {
+  background: rgba(255, 255, 255, 0.3);
+}

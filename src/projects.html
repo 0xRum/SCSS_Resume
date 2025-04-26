@@ -1,0 +1,163 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Projects - Garrett Rumery</title>
+    <script>
+      document.documentElement.setAttribute(
+        "data-theme",
+        localStorage.getItem("theme") ||
+          (window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light")
+      );
+    </script>
+    <link rel="stylesheet" href="styles/main.scss" />
+    <script type="module" src="scripts/main.ts"></script>
+  </head>
+  <body>
+    <header>
+      <button class="menu-toggle" aria-label="Toggle menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+      <nav class="desktop-nav">
+        <ul>
+          <li><a href="index.html">HOME</a></li>
+          <li><a href="about.html">ABOUT</a></li>
+          <li><a href="projects.html">PROJECTS</a></li>
+          <li><a href="contact.html">CONTACT</a></li>
+        </ul>
+      </nav>
+      <a href="index.html" class="logo">G</a>
+      <div class="social-links">
+        <a href="https://github.com/0xRum" aria-label="GitHub Profile">
+          <img src="assets/github.png" alt="GitHub" class="social-icon" />
+        </a>
+        <a
+          href="https://linkedin.com/in/garrett-rumery"
+          aria-label="LinkedIn Profile"
+        >
+          <img src="assets/linkedin.png" alt="LinkedIn" class="social-icon" />
+        </a>
+        <button class="theme-toggle" aria-label="Toggle dark mode">
+          <img src="assets/dark-mode.png" alt="Dark Mode" class="social-icon" />
+        </button>
+      </div>
+
+      <!-- Mobile Menu -->
+      <div class="mobile-menu">
+        <div class="mobile-menu-header">
+          <div class="logo">G</div>
+          <button class="close-menu" aria-label="Close menu">
+            <span></span>
+            <span></span>
+          </button>
+        </div>
+        <nav class="mobile-nav">
+          <ul>
+            <li><a href="index.html">HOME</a></li>
+            <li><a href="about.html">ABOUT</a></li>
+            <li><a href="projects.html">PROJECTS</a></li>
+            <li><a href="contact.html">CONTACT</a></li>
+          </ul>
+        </nav>
+        <div class="mobile-social-links">
+          <a href="https://github.com/0xRum">
+            <img src="assets/github.png" alt="GitHub" class="social-icon" />
+          </a>
+          <a href="https://linkedin.com/in/garrett-rumery">
+            <img src="assets/linkedin.png" alt="LinkedIn" class="social-icon" />
+          </a>
+          <button class="theme-toggle-mobile">
+            <img
+              src="assets/dark-mode.png"
+              alt="Dark Mode"
+              class="social-icon"
+            />
+          </button>
+        </div>
+      </div>
+    </header>
+
+    <main>
+      <section class="projects-section">
+        <div class="projects-header">
+          <h1>Featured Projects</h1>
+          <p class="lead">
+            A collection of my recent significant work and contributions to the
+            world of software development.
+          </p>
+        </div>
+
+        <div class="projects-grid">
+          <article class="project-card">
+            <div class="project-image">
+              <img src="https://placehold.co/600x400" alt="Project 1 preview" />
+            </div>
+            <div class="project-content">
+              <h3>Project Name</h3>
+              <p class="project-tech">React • Node.js • MongoDB</p>
+              <p class="project-description">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed
+                vitae justo vel metus consectetur feugiat eget in turpis.
+              </p>
+              <div class="project-links">
+                <a href="#" class="github-link">
+                  <img src="assets/github.png" alt="GitHub" class="link-icon" />
+                  View Code
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-image">
+              <img src="https://placehold.co/600x400" alt="Project 2 preview" />
+            </div>
+            <div class="project-content">
+              <h3>Another Project</h3>
+              <p class="project-tech">TypeScript • Next.js • AWS</p>
+              <p class="project-description">
+                Vestibulum ante ipsum primis in faucibus orci luctus et ultrices
+                posuere cubilia curae; Sed at ligula auctor.
+              </p>
+              <div class="project-links">
+                <a href="#" class="github-link">
+                  <img src="assets/github.png" alt="GitHub" class="link-icon" />
+                  View Code
+                </a>
+              </div>
+            </div>
+          </article>
+
+          <article class="project-card">
+            <div class="project-image">
+              <img src="https://placehold.co/600x400" alt="Project 3 preview" />
+            </div>
+            <div class="project-content">
+              <h3>Cool Project</h3>
+              <p class="project-tech">Python • Django • PostgreSQL</p>
+              <p class="project-description">
+                Praesent tincidunt, lectus ac dignissim varius, nisi lorem
+                efficitur nunc, vitae aliquam nunc ipsum vitae nisi.
+              </p>
+              <div class="project-links">
+                <a href="#" class="github-link">
+                  <img src="assets/github.png" alt="GitHub" class="link-icon" />
+                  View Code
+                </a>
+              </div>
+            </div>
+          </article>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <p>&copy; 2025 Garrett Rumery. All rights reserved.</p>
+    </footer>
+  </body>
+</html>
