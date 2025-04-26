@@ -1,7 +1,6 @@
 # Portfolio Website
 
-A modern, responsive portfolio website built with HTML5, SCSS, and TypeScript. This project showcases professional experience, skills, and projects in an engaging and accessible way.
-
+A modern, responsive portfolio website built with HTML5, SCSS, and TypeScript. 
 ## Features
 
 - Responsive design that works on all devices
