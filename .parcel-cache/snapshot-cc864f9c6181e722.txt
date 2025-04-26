@@ -61,7 +61,7 @@
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\watcher\src\wasm\include.h133899436383426837 0
 72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\ResumeTS-SCSS.pdf133894821397643023 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\import.cjs133899436385031995 0
-64C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\README.md133895056004676968 0
+64C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\README.md133901222241009279 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\transformer-json\src\JSONTransformer.js133899436377728706 0
 113C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\node-gyp-build-optional-packages\package.json133899436378393808 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\dribbble.svg133899436394682958 0
