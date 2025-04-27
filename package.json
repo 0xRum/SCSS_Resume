@@ -5,8 +5,7 @@
   "scripts": {
     "start": "parcel src/index.html",
     "build": "parcel build src/index.html",
-    "watch:sass": "sass --watch src/styles/main.scss:dist/css/style.css",
-    "compile:sass": "sass src/styles/main.scss:dist/css/style.css"
+    "watch": "parcel watch src/index.html"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1"
