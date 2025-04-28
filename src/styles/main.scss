@@ -154,7 +154,7 @@ body {
     object-fit: contain;
   }
 
-  // Add filter to invert GitHub icon in dark mode
+  //invert GitHub icon in dark mode
   [data-theme="dark"] & a[href*="github"] .social-icon {
     filter: invert(1);
   }
@@ -167,7 +167,6 @@ body {
   }
 }
 
-// Mobile social links remain visible
 .mobile-social-links {
   display: flex;
   align-items: center;
@@ -196,7 +195,7 @@ body {
     object-fit: contain;
   }
 
-  // Add filter to invert GitHub icon in dark mode for mobile
+  //invert GitHub icon in dark mode for mobile
   [data-theme="dark"] & a[href*="github"] .social-icon {
     filter: invert(1);
   }
@@ -426,7 +425,7 @@ body {
   }
 }
 
-// Menu toggle button
+// Menu toggle
 .menu-toggle {
   display: none;
   background: none;
@@ -500,7 +499,7 @@ header .logo {
   }
 }
 
-// Hide menu toggle when mobile menu is active
+// Hide menu toggle
 .mobile-menu.active ~ .menu-toggle {
   display: none;
 }
@@ -1165,7 +1164,7 @@ footer {
   }
 }
 
-// Focus styles for all interactive elements
+// Focus styles for all interactive
 a:focus,
 button:focus,
 input:focus,
