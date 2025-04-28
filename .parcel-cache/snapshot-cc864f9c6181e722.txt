@@ -1,4 +1,4 @@
-7873
+7874
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\republican.svg133899436400536954 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\door-closed.svg133899436394622946 0
 80C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\undici-types133899436384401985 1
@@ -30,12 +30,16 @@
 88C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\picocolors\README.md133899436378148741 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\table-list.svg133899436402167885 0
 67C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\package.json133902722282208878 0
+95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-browser-hmr133899436381777893 1
+109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\flexbox-gap.js133899436390777910 0
+111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133899436377748697 0
+65C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\.gitignore133903270767196138 0
 119C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\typescript\lib\cs\diagnosticMessages.generated.json133899436388186743 0
 92C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\semver\functions\sort.js133899436384651989 0
 105C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\css-tree\cjs\lexer\generic-urange.cjs133899436385042053 0
 96C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\type-fest\source\except.d.ts133899436382593047 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\transformer-json\lib\JSONTransformer.js133899436377318695 0
-59C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist133903237913319050 1
+59C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist133903314069871351 1
 89C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\dist\csso.esm.js133899436385663448 0
 78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\is-extglob133899436377788686 1
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\comment.svg133899436393932100 0
@@ -54,7 +58,7 @@
 107C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\css-tree\cjs\syntax\node\Combinator.cjs133899436382963022 0
 129C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc133899436377147133 0
 112C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_to_property_key\package.json133899436390507915 0
-69C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\prepros.config133901210092333827 0
+69C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\prepros.config133903281634728326 0
 125C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\file-invoice.svg133899436395738098 0
 107C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\utility-types\dist\utility-types.js.map133899436382137894 0
 99C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\commander\lib\suggestSimilar.js133899436381867842 0
@@ -103,7 +107,7 @@
 89C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\mdn-data\CHANGELOG.md133899436383956851 0
 96C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\timsort\build\timsort.min.js133899436378753812 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\typescript\lib\pt-br\diagnosticMessages.generated.json133899436389662747 0
-65C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets133903221537571164 1
+65C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets133903313482788368 1
 98C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\js-yaml\lib\schema\failsafe.js133899436381957866 0
 81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\dotenv-expand133899436378993809 1
 71C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\contact.html133902719258325304 0
@@ -124,7 +128,7 @@
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb\LICENSE133899436382047887 0
 87C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@types\node\fs.d.ts133899436383866846 0
 94C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\js-yaml\lib\schema\core.js133899436378453804 0
-72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\projects.html133903236221438726 0
+72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\projects.html133903285665962287 0
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\entities\lib133899436383786837 1
 74C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@types133899436365052963 1
 99C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\regions\MA.js133899436392561677 0
@@ -137,7 +141,7 @@
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\type-fest\source\entries.d.ts133899436382393044 0
 78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\styles\_layout.scss133900837948377479 0
 137C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\msgpackr-extract\node_modules\node-gyp-build-optional-packages\bin.js133899436377278695 0
-75C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\styles\main.scss133903214896362451 0
+75C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\styles\main.scss133903272578881080 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\turn-down.svg133899436402822977 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\credit-card.svg133899436394222963 0
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\htmlparser2\lib\index.d.ts133899436382643049 0
@@ -148,7 +152,7 @@
 90C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\codeframe\test133899436383816843 1
 81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\parent-module133899436377778687 1
 69C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\resume.pdf133900905920145744 0
-79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\github.4e3c507c.png133903237875234672 0
+79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\github.4e3c507c.png133903314046292405 0
 133C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\entities\lib\generated\decode-data-xml.d.ts133899436383546846 0
 94C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@trysound\sax\package.json133899436377808690 0
 132C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\prescription-bottle.svg133899436400226956 0
@@ -180,7 +184,7 @@
 78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\project1.png133903217668312147 0
 119C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\spider.svg133899436401367844 0
 106C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\type-fest\source\conditional-keys.d.ts133899436381987847 0
-74C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\styles\main.css133901210089176510 0
+74C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\styles\main.css133903275605484477 0
 94C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\mdn-data133899436384056918 1
 91C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\weak-lru-cache\index.js133899436377688689 0
 107C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\css-tree\cjs\definition-syntax\walk.cjs133899436387381652 0
@@ -253,9 +257,9 @@
 87C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\hero-illustration.svg133895057707867487 0
 72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\me.png133895155066564708 0
 138C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\arrows-left-right-to-line.svg133899436390407904 0
-78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\project2.png133903219853779722 0
+78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\project2.png133903313368750043 0
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\monero.svg133899436398936285 0
-78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\project3.png133903221540967078 0
+78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\src\assets\project3.png133903313368893347 0
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\mizuni.svg133899436398886285 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\typescript\lib\lib.webworker.asynciterable.d.ts133899436391381333 0
 118C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\hotel.svg133899436397513909 0
@@ -344,7 +348,7 @@
 125C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\css-tree\cjs\syntax\node\WhiteSpace.cjs133899436387291651 0
 72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\.bin133899436404438888 1
 82C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\cjs\clean133899436384711998 1
-79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\nodejs.b74093de.svg133903237875234672 0
+79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\nodejs.b74093de.svg133903314046396503 0
 83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\caching.js133899436387421659 0
 98C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\typescript\lib\lib.es2023.d.ts133899436391039340 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\domutils\lib\esm\feeds.js.map133899436383366847 0
@@ -763,7 +767,7 @@
 125C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\regular\file-video.svg133899436395808090 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\paper-plane.svg133899436399501437 0
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\domutils\lib\querying.d.ts133899436383546846 0
-70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\about.html133903237913208217 0
+70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\about.html133903314069774869 0
 99C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\regions\PY.js133899436393632103 0
 86C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\is-json\.npmignore133899436377198687 0
 90C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\update-browserslist-db133899436378793806 1
@@ -1378,7 +1382,7 @@
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\utils\test\input\sourcemap133899436386996448 1
 127C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\css-tree\lib\syntax\node\AtrulePrelude.js133899436387371653 0
 95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\typescript\lib\lib.es5.d.ts133899436391221349 0
-77C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\html.33a63dd2.svg133903237875234672 0
+77C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\html.33a63dd2.svg133903314046292405 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\domutils\lib\stringify.js133899436378943810 0
 110C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\style-scoped.js133899436394182147 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-initial-value.js133899436388196801 0
@@ -1596,7 +1600,7 @@
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\midi.js133899436392801641 0
 96C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\sass\types\logger\index.d.ts133899436386586455 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\css-tree\lib\walker\create.js133899436387791660 0
-76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\fam.add971c6.jpg133903237875234672 0
+76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\fam.add971c6.jpg133903314046396503 0
 89C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\mdn-data\css\index.js133899436377698702 0
 79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\timsort\src133899436378913810 1
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\bilibili.svg133899436391149379 0
@@ -2195,7 +2199,6 @@
 118C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\lungs.svg133899436398416275 0
 109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\htmlparser2\LICENSE133899436376997107 0
 114C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\posthtml\node_modules\htmlparser2\package.json133899436378843811 0
-81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project3.6260d6b6.png133903237896187514 0
 100C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\htmlnano\lib\modules\example.mjs133899436386133492 0
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\css-tree\cjs\syntax\atrule\font-face.cjs133899436384491995 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\css-select\lib\esm\general.js133899436382303047 0
@@ -2775,10 +2778,10 @@
 77C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\util133899436387601642 1
 81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\write.js133899436387631654 0
 91C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_dispose133899436389842745 1
+106C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\dom-serializer\lib\esm\foreignNames.js133899436377408691 0
 111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\node_modules\css-tree\dist\version.cjs133899436387251660 0
 88C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\csso\cjs\version.cjs133899436384631991 0
 92C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\src\compression.cpp133899436386456459 0
-106C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\dom-serializer\lib\esm\foreignNames.js133899436377408691 0
 87C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\src\cursor.cpp133899436386496460 0
 88C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\src\lmdb-js.cpp133899436386606482 0
 85C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\src\misc.cpp133899436386636453 0
@@ -2871,7 +2874,7 @@
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\hand-point-up.svg133899436396943206 0
 99C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\regions\MC.js133899436392611648 0
 108C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\dependencies\lz4\lib\dll\liblz4.def133899436386886456 0
-84C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.023d2113.css133903237913208217 0
+84C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.023d2113.css133903314069774869 0
 119C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\rocket.svg133899436400656952 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\face-smile.svg133899436395478089 0
 114C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\lmdb\dependencies\lz4\lib\dll\example\Makefile133899436383043060 0
@@ -3536,7 +3539,7 @@
 110C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_apply_descriptor_set133899436388686802 1
 86C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\domhandler\lib\esm133899436382683041 1
 99C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\regions\BG.js133899436385553447 0
-83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\typescript.1d01869d.svg133903237875234672 0
+83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\typescript.1d01869d.svg133903314046292405 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\domhandler\lib\index.d.ts.map133899436381947858 0
 96C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\domhandler\lib\node.d.ts.map133899436382243041 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\domhandler\lib\esm\index.d.ts133899436382503048 0
@@ -4920,7 +4923,7 @@
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\scss\_rotated-flipped.scss133899436388446799 0
 127C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\computer-mouse.svg133899436394012103 0
 119C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\contentsecuritypolicy.js133899436387126527 0
-78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\react.9c256c20.svg133903237875234672 0
+78C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\react.9c256c20.svg133903314046292405 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\createimagebitmap.js133899436387211656 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\shoelace.svg133899436401047229 0
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\snowman.svg133899436401257843 0
@@ -4971,7 +4974,7 @@
 112C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-dir-pseudo.js133899436387751657 0
 118C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-element-function.js133899436387781658 0
 92C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@types\node\cluster.d.ts133899436382147896 0
-72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\contact.html133903237913208217 0
+72C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\contact.html133903314069774869 0
 114C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-env-function.js133899436387791660 0
 112C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-exclusions.js133899436387811659 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\css-file-selector-button.js133899436387841658 0
@@ -5087,8 +5090,6 @@
 112C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\filereadersync.js133899436390717925 0
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\regular\folder-open.svg133899436396088126 0
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\flac.js133899436390767911 0
-95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-browser-hmr133899436381777893 1
-109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\flexbox-gap.js133899436390777910 0
 121C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\caniuse-lite\data\features\focusin-focusout-events.js133899436390827910 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\regular\copyright.svg133899436394072144 0
 130C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\tower-observation.svg133899436402572969 0
@@ -5404,7 +5405,7 @@
 117C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_check_private_static_access133899436388756798 1
 108C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_private_field_init133899436389422998 1
 108C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_private_method_get133899436389542776 1
-73C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\projects.html133903237913208217 0
+73C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\projects.html133903314069774869 0
 108C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_private_method_set133899436389572753 1
 117C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_static_private_field_update133899436389642749 1
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_class_static_private_method_get133899436389672752 1
@@ -5494,8 +5495,6 @@
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\periscope.svg133899436399651598 0
 100C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_get\package.json133899436389922752 0
 108C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_export_star\package.json133899436389872747 0
-95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@lezer\lr\dist\constants.js133899436378333820 0
-116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133899436391411350 0
 125C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_define_enumerable_properties\package.json133899436389812748 0
 109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_create_class\package.json133899436389712753 0
 106C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\_\_construct\package.json133899436389702744 0
@@ -5548,6 +5547,8 @@
 93C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_jsx.mjs133899436391381333 0
 105C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_new_arrow_check.mjs133899436391391334 0
 107C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_non_iterable_rest.mjs133899436391401329 0
+95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@lezer\lr\dist\constants.js133899436378333820 0
+116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_object_destructuring_empty.mjs133899436391411350 0
 103C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_object_spread.mjs133899436391431328 0
 109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_object_spread_props.mjs133899436391421330 0
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\src\_object_without_properties.mjs133899436391451321 0
@@ -5653,7 +5654,7 @@
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\jet-fighter.svg133899436397964101 0
 109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\esm\_ts_dispose_resources.js133899436388071687 0
 97C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\esm\_ts_param.js133899436388111689 0
-70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\resume.pdf133903237875400655 0
+70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\resume.pdf133903314046427196 0
 98C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\esm\_ts_values.js133899436388121687 0
 132C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\stumbleupon-circle.svg133899436402017869 0
 98C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@swc\helpers\esm\_using_ctx.js133899436388171694 0
@@ -6159,7 +6160,7 @@
 95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\package-manager\lib133899436384821987 1
 111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-service-worker\package.json133899436378038746 0
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-service-worker\src133899436377648697 1
-80C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\mongodb.adf82353.svg133903237875234672 0
+80C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\mongodb.adf82353.svg133903314046396503 0
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-service-worker\src\ServiceWorkerRuntime.js133899436377728706 0
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-service-worker\lib\ServiceWorkerRuntime.js133899436377328695 0
 91C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\runtime-rsc\lib133899436377238691 1
@@ -6269,7 +6270,6 @@
 111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js133899436378058735 0
 117C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\btc.svg133899436392051387 0
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-wasm\src\wasm-sourcemap.js.flow133899436377358721 0
-111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-wasm\lib\wasm-sourcemap.js133899436377748697 0
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\sellsy.svg133899436400937147 0
 109C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-wasm\lib\WasmPackager.js133899436378313809 0
 92C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\packager-svg\lib133899436377248694 1
@@ -6654,7 +6654,7 @@
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\lib\resolveOptions.js133899436387571647 0
 98C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\lib\serializer.js133899436387611636 0
 102C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\lib\serializerCore.js133899436387671650 0
-81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\linkedin.c5182d91.png133903237875234672 0
+81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\linkedin.c5182d91.png133903314046292405 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\regular\chart-bar.svg133899436392931652 0
 105C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\lib\SymbolPropagation.js133899436387761670 0
 111C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@parcel\core\lib\TargetDescriptor.schema.js133899436387891656 0
@@ -6985,6 +6985,7 @@
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\pen.svg133899436399581422 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\crop-simple.svg133899436394232952 0
 117C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\crop.svg133899436394232952 0
+81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project2.c7b49f1f.png133903314060572330 0
 125C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\regular\hand-peace.svg133899436396853213 0
 119C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\crutch.svg133899436394272957 0
 126C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\cruzeiro-sign.svg133899436394272957 0
@@ -7476,7 +7477,7 @@
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-secret.svg133899436403093423 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-shield.svg133899436403103595 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-slash.svg133899436403113427 0
-83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\javascript.6a9f7076.svg133903237875234672 0
+83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\javascript.6a9f7076.svg133903314046292405 0
 121C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-tie.svg133899436403123437 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\user-xmark.svg133899436403123437 0
 123C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\solid\users-gear.svg133899436403143451 0
@@ -7636,7 +7637,7 @@
 120C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\erlang.svg133899436394962944 0
 118C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\node.svg133899436399221433 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\evernote.svg133899436394992938 0
-70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\index.html133903237913208217 0
+70C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\index.html133903314069774869 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\facebook-f.svg133899436395508093 0
 132C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\facebook-messenger.svg133899436395518087 0
 134C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\svgs\brands\fantasy-flight-games.svg133899436395538096 0
@@ -7808,7 +7809,7 @@
 115C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\scss\_mixins.scss133899436388426802 0
 122C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\scss\_screen-reader.scss133899436388456793 0
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\scss\_stacked.scss133899436388516794 0
-83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.a97d7db5.js133903237913213624 0
+83C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.a97d7db5.js133903314069774869 0
 121C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\metadata\categories.yml133899436404128547 0
 124C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\metadata\icon-families.yml133899436404148546 0
 116C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\@fortawesome\fontawesome-free\metadata\icons.yml133899436404168554 0
@@ -7862,13 +7863,13 @@
 85C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\.bin\tsserver.cmd133899436404448885 0
 85C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\.bin\tsserver.ps1133899436404448885 0
 95C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\node_modules\.bin\update-browserslist-db133899436404458881 0
-76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\css.c53967ed.svg133903237875234672 0
-82C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\dark-mode.d32b0fa9.png133903237875234672 0
-76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\git.2f6a1353.svg133903237875234672 0
-85C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\github-light.48188536.png133903237875234672 0
-75C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\me.c9f0d57a.png133903237875234672 0
-81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project1.cdac010f.png133903237888255949 0
-81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project2.42582715.png133903237913213624 0
-79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\python.a40ee6a7.svg133903237875234672 0
-88C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.023d2113.css.map133903237913291127 0
-87C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.a97d7db5.js.map133903237913308426 0
+76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\css.c53967ed.svg133903314046292405 0
+82C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\dark-mode.d32b0fa9.png133903314046292405 0
+76C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\git.2f6a1353.svg133903314046396503 0
+85C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\github-light.48188536.png133903314046292405 0
+75C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\me.c9f0d57a.png133903314046292405 0
+81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project1.cdac010f.png133903314046292405 0
+81C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\project3.c38f838d.png133903314069774869 0
+79C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\python.a40ee6a7.svg133903314046292405 0
+88C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.023d2113.css.map133903314069871351 0
+87C:\Users\skici\Documents\Spring2025\COS320\SCSS_Resume\dist\SCSS_Resume.a97d7db5.js.map133903314069871351 0
